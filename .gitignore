@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Bytecode / caches
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
